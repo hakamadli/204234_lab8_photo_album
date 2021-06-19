@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "664718639390",
+    "project_id": "photo-album-c5055",
+    "storage_bucket": "photo-album-c5055.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664718639390:android:c35279cce883245a3e890f",
+        "android_client_info": {
+          "package_name": "com.hakam.photo_album"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664718639390-8lduue7jhfpr5l7v67kgdc29235oka24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoRqYl6NiF7RstCIQSW8qBL_whlHuTguo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664718639390-8lduue7jhfpr5l7v67kgdc29235oka24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
